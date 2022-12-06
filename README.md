@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages fmorillas
 
--- You can use the [editor on GitHub](https://github.com/fmorillas/fmorillas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[comment]: < [Editor on GitHub](https://github.com/fmorillas/fmorillas.github.io/edit/main/README.md) to maintain and preview the content in Markdown files. >
 
 ## Pages interesting
 
